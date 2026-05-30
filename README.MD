@@ -1,16 +1,10 @@
 <div align="center">
 
-```
-██████╗ ██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ███████╗
-██╔══██╗██║██╔════╝██║  ██║██║    ██║██╔══██╗██╔════╝
-██████╔╝██║███████╗███████║██║ █╗ ██║███████║███████╗
-██╔══██╗██║╚════██║██╔══██║██║███╗██║██╔══██║╚════██║
-██████╔╝██║███████║██║  ██║╚███╔███╔╝██║  ██║███████║
-╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
-                                              R E G M I
-```
+# 👋 Hi, I'm Bishwash Regmi
 
-### 👨‍💻 Java Backend Developer · Data Analyst · Spring Boot Enthusiast
+### 🚀 Java Backend Developer · Data Analyst · Spring Boot Enthusiast
+
+> Building powerful backends & turning data into insights — from Pokhara, Nepal 🇳🇵
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+Backend+Developer;Data+Analysis+%26+Power+BI+Expert;Building+Robust+RESTful+APIs;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
@@ -128,7 +122,7 @@ print(f"Hello, I'm {profile['name']} — {profile['impact']}")
 
 [![GitHub](https://img.shields.io/badge/GitHub-BishwasRegmi0158-181717?style=for-the-badge&logo=github)](https://github.com/BishwasRegmi0158)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bishwash-regmi-3a981835a/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:bishwashregmi375@gmail.com)
 
 </div>
 
