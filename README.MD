@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Bishwash Regmi
+#  Hi, I'm Bishwash Regmi
 
-### 🚀 Java Backend Developer · Data Analyst · Spring Boot Enthusiast
+###  Java Backend Developer · Data Analyst · Spring Boot Enthusiast
 
 > Building powerful backends & turning data into insights — from Pokhara, Nepal 🇳🇵
 
@@ -12,21 +12,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 > *"Code is not just instructions for machines — it's a craft."*
 
 I'm a **Java Backend Developer** specializing in **Spring Boot**, passionate about building scalable, robust backend systems. Beyond the backend, I bridge the gap between raw data and meaningful insights using **Power BI** and **Python**.
 
-- 🏗️ Building production-ready **REST APIs** with Spring Boot
-- 📊 Transforming complex datasets into actionable **Power BI dashboards**
-- 🐍 Writing clean **Python** scripts for data processing & automation
-- 🌐 Comfortable with frontend fundamentals — **HTML, CSS, JSP**
-- 📈 Passionate about **data analysis** and business intelligence
+-  Building production-ready **REST APIs** with Spring Boot
+-  Transforming complex datasets into actionable **Power BI dashboards**
+-  Writing clean **Python** scripts for data processing & automation
+-  Comfortable with frontend fundamentals — **HTML, CSS, JSP**
+-  Passionate about **data analysis** and business intelligence
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
